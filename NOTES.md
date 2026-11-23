@@ -18,7 +18,7 @@
 - Fresh kit downloaded 23 Nov ~10:31 WIB. Kit `init` created LICENSE (MIT, SPDX line) + anchor commit.
 - `main.py`, `STRATEGY.md`, `tests/test_entry.py`, `README.md` (template badges, owner/repo/referral filled), `NOTES.md` written in the build session.
 - Tests: `python3 -m unittest discover -s tests -v` — all pass (line length/sentence, exact output, determinism over two runs).
-- Kit check: ok=true, failed=[] (bundle: ~/workspace/tools/makefun/bundles/walrus-bundle.tar.gz).
+- Kit check: pending — bundle + check run in the follow-up turn, after this build session's usage row is written (usage rows land only when the build turn ends). Dry-run bundle passes (missing=[]).
 - NOT submitted — awaiting Joni's Setuju on the exact entry.
 
 ## Live score
